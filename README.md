@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Zeus Orilla</h1>
 
 <h3 align="center">
-  Software Engineer from the Philippines 🇵🇭
+  Software Engineer from the Philippines
 </h3>
 
 <p align="left">
