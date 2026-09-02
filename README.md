@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://callmesauce.github.io/zmiquel/">
-    <img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="MasterHead" width="100%">
+    <img src="https://steamuserimages-a.akamaihd.net/ugc/1750192580777325570/34439813918391F33D5B5A681CD1E2F8035056C2/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="MasterHead" width="50%">
   </a>
 </div>
 
