@@ -4,7 +4,7 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Zeus Orilla</h1>
+<h1 align="center">Hi 👋, I'm Zeus Miguel</h1>
 
 <h3 align="center">
   Software Engineer from the Philippines
